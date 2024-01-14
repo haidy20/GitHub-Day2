@@ -6,3 +6,11 @@ git branch -D branch_name
 
 -To remove a remote branch, you need to use the git push command with the --delete flag:
 git push origin --delete branch_name
+
+-how to list tags:
+git tag
+
+-how to delete tag locally and remotely:
+local: git tag -d <tag_name>
+remote: git push origin :refs/tags/<tag_name>
+

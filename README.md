@@ -14,3 +14,4 @@ git tag
 local: git tag -d <tag_name>
 remote: git push origin :refs/tags/<tag_name>
 
+![download](https://github.com/haidy20/GitHub_Day2/assets/82911328/87fc5279-3bdf-4199-a1fc-279d790effe9)
